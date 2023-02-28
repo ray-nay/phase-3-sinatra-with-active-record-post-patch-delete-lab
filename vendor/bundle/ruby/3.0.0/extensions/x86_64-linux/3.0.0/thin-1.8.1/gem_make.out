@@ -1,0 +1,17 @@
+current directory: /home/honeybear/Documents/Assignments/phase-3-sinatra-with-active-record-post-patch-delete-lab/vendor/bundle/ruby/3.0.0/gems/thin-1.8.1/ext/thin_parser
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20230301-6494-s6be54.rb extconf.rb
+checking for main() in -lc... yes
+creating Makefile
+
+current directory: /home/honeybear/Documents/Assignments/phase-3-sinatra-with-active-record-post-patch-delete-lab/vendor/bundle/ruby/3.0.0/gems/thin-1.8.1/ext/thin_parser
+make DESTDIR\= clean
+
+current directory: /home/honeybear/Documents/Assignments/phase-3-sinatra-with-active-record-post-patch-delete-lab/vendor/bundle/ruby/3.0.0/gems/thin-1.8.1/ext/thin_parser
+make DESTDIR\=
+compiling parser.c
+compiling thin.c
+linking shared-object thin_parser.so
+
+current directory: /home/honeybear/Documents/Assignments/phase-3-sinatra-with-active-record-post-patch-delete-lab/vendor/bundle/ruby/3.0.0/gems/thin-1.8.1/ext/thin_parser
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 thin_parser.so ./.gem.20230301-6494-21jbyc
